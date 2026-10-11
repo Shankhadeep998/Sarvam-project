@@ -1,0 +1,4 @@
+sarvamai>=0.1.36
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+httpx>=0.21.2
